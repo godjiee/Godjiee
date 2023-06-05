@@ -16,5 +16,6 @@
 ###Technologies & Frameworks<br>
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![CSS3](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
+![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
+![P](https://img.shields.io/badge/processing-black?style=for-the-badge&logo=processing)
 
