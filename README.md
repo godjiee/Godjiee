@@ -10,11 +10,11 @@
     </a>
 </p>
 
-<p>Languages</p>
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
+###Languages
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
 
-//Technologies & Frameworks
+###Technologies & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![CSS3](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
