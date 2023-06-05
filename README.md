@@ -1,6 +1,5 @@
 
 <p align="center">
-    <b>Welcome!</b><br><br>
     <i>
         I am actively studying Web development.<br>
         Seeking for entry-level job opportunities.<br>
