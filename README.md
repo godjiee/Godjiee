@@ -22,5 +22,3 @@
 ![MATERIAL_UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![REACT](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![REACTNATIVE](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
