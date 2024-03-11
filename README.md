@@ -2,7 +2,6 @@
 <p align="center">
     <i>
         I am actively studying Web development.<br>
-        Seeking for entry-level job opportunities.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/joaocorreia99/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
