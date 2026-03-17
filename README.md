@@ -21,7 +21,6 @@
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![REACT](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![REACTNATIVE](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 ![MATERIAL_UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
